@@ -7,7 +7,7 @@
 <br/>
 
 - 💻 I am a Full Stack Web Developer looking forward to use Technology to serve Society :bowtie:
-- 🔭 I'm a post-graduate student and research scholar
+- 🔭 I'm a Masters student in Computer Science and research scholar
 - 🌱 I use daily `.js`, `.jsx`, `.java`, MongoDB and SQL
 - 😊 Pronouns: she/her
 - ⚡ Fun facts: I adore instrumental music of every kind, philosophy (not every kind) and *Ilex paraguariensis*
