@@ -6,9 +6,9 @@
 </p>
 <br/>
 
-- 💻 I'm a Full Stack Web Developer looking forward to use Technology to serve Society :bowtie:
-- 🔭 I’m the founder and CEO of [Unfold Software Development](https://unfoldsoftwaredev.com.br)
-- 🌱 I use daily `.js`, `jsx` and MongoDB
+- 💻 I am a Full Stack Web Developer looking forward to use Technology to serve Society :bowtie:
+- 🔭 I'm a post-graduate student and research scholar
+- 🌱 I use daily `.js`, `.jsx`, `.java`, MongoDB and SQL
 - 😊 Pronouns: she/her
 - ⚡ Fun facts: I adore instrumental music of every kind, philosophy (not every kind) and *Ilex paraguariensis*
 - ⚡^2 I am a :metal:head and Pies, Albert Einstein and I share a birthday
