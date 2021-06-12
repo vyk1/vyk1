@@ -12,7 +12,8 @@
 - 😊 Pronouns: she/her
 - ⚡ Fun facts: I adore instrumental music of every kind, philosophy (not every kind) and *Ilex paraguariensis*
 - ⚡^2 I am a :metal:head and Pies, Albert Einstein and I share a birthday
-- 🎮 And yes, I used to play GetAmped2
+- 🎮 Yes, I used to play GetAmped2
+- 🦎 And I <3 KGLW
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img
