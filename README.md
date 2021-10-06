@@ -8,8 +8,7 @@
 
 - 💻 I am a Full Stack Web Developer looking forward to use Technology to serve Society :bowtie:
 - 🔭 I'm a Masters student in Computer Science and research scholar
-- 🌱 I use daily `.js`, `.jsx`, `.java`, MongoDB and SQL
-- 😊 Pronouns: she/her
+- 🌱 I use daily `.ts`, `.tsx`, `.js`, `.jsx`, `.java`, MongoDB and PostgreSQL
 - ⚡ I adore instrumental music of every kind, philosophy (not every kind) and *Ilex paraguariensis*
 - ⚡^2 I am a :metal:head, Pi(es), Albert Einstein and I share a birthday
 - 🎮 Yes, I used to play GetAmped2
