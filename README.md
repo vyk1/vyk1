@@ -88,7 +88,4 @@
     <a href="https://spring.io/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="36px" />
     </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="36px" />
-    </a>
 </p>
