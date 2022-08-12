@@ -2,7 +2,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/victoria-botelho-martins-046a5b153/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin_icon" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/13660477/vyk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow_icon" height="30" width="30" /></a>
-<a href="https://instagram.com/v_botelho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram_icon" height="30" width="30" /></a>
 <a href="https://vyk1.github.io/en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="portifolio_icon" height="30" width="30" /></a>
 </p>
 <br/>
