@@ -15,8 +15,7 @@
 I have an undergraduate degree in Internet Systems and currently I am a MSc student at the Federal University of Santa Catarina; line of research: distributed computing. 
 
 ## Experience
-
-Below, a table that provides an overview of some of the technologies I have experience working with.
+The table below provides an overview of some of the projects I've deployed.
 
 
 | Front End | Back End | Infrastructure | Project | 
@@ -37,8 +36,10 @@ Other projects using TDD, Typescript and different technologies are presented in
 Since 2020,  I have been testing and developing the [Course Monitoring and Evaluation System for institutions within the e-Tec Brasil Network Project](https://portal.saas.ufsc.br), as well as [studying mobility in fog computing environments](https://github.com/vyk1/cluster-formation-mobility-based-algorithm).
 
 ## Other infos 
-For further details, please proceed to [portfolio](https://vyk1.github.io/en/).
-For other projects, please consider visiting [here](https://github.com/vyk1). 
+For further details, please proceed to [portfolio](https://vyk1.github.io/en).
+
+Other projects, please consider visiting [here](https://github.com/vyk1). 
+
 Academic details shall be presented [here](http://lattes.cnpq.br/6294297168242307).
 
 
