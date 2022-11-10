@@ -7,7 +7,7 @@
 </p>
 <br/>
 
-- 💻 I am a Full Stack Web Developer looking forward to use Technology to serve Society :bowtie:
+- 💻 Researcher and Web Developer aiming to shape Technology to improve Society :bowtie:
 - 🔭 I'm a Masters student in Computer Science and research scholar
 - 🌱 I use daily `.ts`, `.tsx`, `.js`, `.jsx`, `.java`, MongoDB and PostgreSQL
 - ⚡ I adore instrumental music of every kind, philosophy (not every kind) and *Ilex paraguariensis*
