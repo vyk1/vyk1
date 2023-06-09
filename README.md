@@ -8,7 +8,7 @@
 <br/>
 
 - 💻 Researcher and Web Developer aiming to shape Technology to improve Society :bowtie:
-- 🔭 I'm a Masters student in Computer Science and research scholar
+- 🔭 I'm a Masters in Computer Science and research scholar
 - 🌱 I use daily `.ts`, `.tsx`, `.js`, `.jsx`, `.java`, MongoDB and PostgreSQL
 - ⚡ I adore instrumental music of every kind, philosophy (not every kind) and *Ilex paraguariensis*
 - ⚡^2 I am a :metal:head, Pi(es), Albert Einstein and I share a birthday
