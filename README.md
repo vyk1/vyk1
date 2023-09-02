@@ -17,12 +17,8 @@
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="36px" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="36px" />
+            src="https://docs.camunda.org/manual/7.19/img/orange-C.png"
+            alt="camunda 7" width="36px" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -34,10 +30,6 @@
     </a>
     <a href="https://www.java.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="36px" />
-    </a>
-    <a href="https://www.php.net" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="36px" />
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img
@@ -74,9 +66,6 @@
     </a>
     <a href="https://www.gatsbyjs.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="36px" />
-    </a>
-    <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-            alt="codeigniter" width="36px" />
     </a>
     <a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
