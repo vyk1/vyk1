@@ -1,17 +1,17 @@
 <h1 align="center">Oi There 👋, I'm Victoria</h1> 
 <p align="center">
-<a href="https://linkedin.com/in/victoria-botelho-martins-046a5b153/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin_icon" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/vyk1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin_icon" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/13660477/vyk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow_icon" height="30" width="30" /></a>
-<a href="https://vyk1.github.io/en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="portifolio_icon" height="30" width="30" /></a>
+<a href="https://vyk1.github.io/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="portifolio_icon" height="30" width="30" /></a>
 <a href="https://orcid.org/0000-0002-5301-038X" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/54/Cib-orcid_%28CoreUI_Icons_v1.0.0%29.svg" alt="orcid_icon" height="30" width="30" /></a>
 </p>
 <br/>
 
 - :bowtie: I am a web developer
-- 🔭 I have a master's degree in computer science
-- 🌱 I use daily `.ts`, `.tsx`, `.js`, `.jsx`, `.java`, MongoDB and PostgreSQL
+- 🔭 I hold a master's degree in computer science
+- 🌱 I use daily `.js`, `.jsx`, `.java`, MongoDB and PostgreSQL
 - ⚡ I adore instrumental music of every kind, philosophy (not every kind) and *Ilex paraguariensis*
-- ⚡^2 I am a :metal:head, Pi(es), Albert Einstein and I share a birthday
+- ⚡^2 I am a :metal:head; and Pi(es), Albert Einstein and I share a birthday
 - 🎮 Yes, I used to play GetAmped2
 - 🦎 And I 💖 KGLW
 
