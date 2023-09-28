@@ -14,7 +14,7 @@
 - ⚡^2 I am a :metal:head; and Pi(es), Albert Einstein and I share a birthday
 - 🎮 Yes, I used to play GetAmped2
 - 🦎 And I 💖 KGLW
-- Currently, I share interest in R and Go language
+- Currently, I share interest in R and Go languages
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img
