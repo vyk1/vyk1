@@ -1,6 +1,10 @@
 {
     "publications": [
         {
+            "title": "Exploring Architectural Strategies for Mobility Experimentation: A Simulation-Based Study",
+            "link": "https://doi.org/10.1145/3605098.3635933"
+        },
+        {
             "title": "A Cluster Formation Algorithm for Fog Architectures Based on Mobility Parameters at a Geographically LAN Perspective",
             "link": "https://dx.doi.org/10.1007/978-3-031-19945-5_3"
         },
